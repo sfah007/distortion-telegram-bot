@@ -5,7 +5,7 @@ import numpy as np
 import telebot
 from PIL import Image
 
-TOKEN = '<insert your token>'
+TOKEN = '1716270816:AAFS8kCt6zFs4uQkZjgZmPUwfamXNDCrxpE'
 
 bot = telebot.TeleBot(token=TOKEN)
 
